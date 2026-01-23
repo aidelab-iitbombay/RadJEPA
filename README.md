@@ -122,7 +122,17 @@ We used [SimpleITK](https://simpleitk.org/) and [Pydicom](https://pydicom.github
 
 ## Citation
 
-
+```bibtex
+@misc{khan2026radjeparadiologyencoderchest,
+      title={RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture}, 
+      author={Anas Anwarul Haq Khan and Mariam Husain and Kshitij Jadhav},
+      year={2026},
+      eprint={2601.15891},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.15891}, 
+}
+```
 
 ## <span style="color:#1F2937;">Model Card Contact</span>
 
