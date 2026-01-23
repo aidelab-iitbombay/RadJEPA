@@ -85,7 +85,7 @@ Notably, RadJEPA uses a ViT-B/14 backbone (86M parameters), making it substantia
 Furthermore, Rad-DINO and RadJEPA are the only methods pretrained on comparable chest X-ray datasets at similar scale, enabling a direct and fair comparison of self-supervised objectives under matched data and model capacity.
 | Model       | Backbone | # Params |
 |-------------|----------|---------:|
-| Rad-DINO    | ViT-B/14 | 87M      |
+| Rad-DINO    | ViT-B/14 | 86M      |
 | I-JEPA      | ViT-H/14 | 0.6B     |
 | **RadJEPA** | ViT-B/14 | 86M      |
 
