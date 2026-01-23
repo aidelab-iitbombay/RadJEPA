@@ -133,14 +133,21 @@ We used [SimpleITK](https://simpleitk.org/) and [Pydicom](https://pydicom.github
       url={https://arxiv.org/abs/2601.15891}, 
 }
 ```
+## Acknowledgements
 
-## <span style="color:#1F2937;">Model Card Contact</span>
+RadJEPA builds upon the [**I-JEPA architecture**](https://github.com/facebookresearch/ijepa).  
+We thank the authors for making their work publicly available.
 
-<span style="color:#0F172A;">Anas Anwarul Haq Khan</span><br>
-Artificial Intelligence in Digital Health Lab (KCDH)<br>
-Computation for Indian Language Technology Lab<br>
-Department of Computer Science and Engineering<br>
-Indian Institute of Technology Bombay (IIT Bombay)<br><br>
+## Model Card Contact
 
-<span style="color:#2563EB;">📧 anaskhan@cse.iitb.ac.in</span> <br>
-<span style="color:#2563EB;">📧 anas290816007@gmail.com</span>
+**Anas Anwarul Haq Khan**  
+Department of Computer Science and Engineering, IIT Bombay  
+📧 anaskhan@cse.iitb.ac.in  
+
+**Mariam Husain**  
+Department of Biomedical Engineering, Johns Hopkins University, USA  
+📧 mhusai10@jh.edu  
+
+**Kshitij Jadhav**  
+Koita Centre for Digital Health, IIT Bombay  
+📧 kshitij.jadhav@iitb.ac.in  
