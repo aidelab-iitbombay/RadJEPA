@@ -1,7 +1,7 @@
 
 # Resources
 
-- 📄 **Paper**: https://arxiv.org/abs/2601.placeholder  
+- 📄 **Paper**: https://arxiv.org/abs/2601.15891  
 - 🤗 **Hugging Face**: https://huggingface.co/AIDELab-IITBombay/RadJEPA  
 - 💻 **Code (GitHub)**: https://github.com/aidelab-iitbombay/RadJEPA
 
@@ -72,11 +72,11 @@ Underlying biases of the training datasets may not be well characterized.
 
 ### Training procedure
 
-We refer to the [manuscript](https://arxiv.org/abs/2601.placeholder) for a detailed description of the training procedure.
+We refer to the [manuscript](https://arxiv.org/abs/2601.15891) for a detailed description of the training procedure.
 
 ## Evaluation
 
-Our evaluation is best described in the [manuscript](https://arxiv.org/abs/2601.placeholder).
+Our evaluation is best described in the [manuscript](https://arxiv.org/abs/2601.15891).
 
 ### Baselines
 
